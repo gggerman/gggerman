@@ -14,8 +14,8 @@
 
 # Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/german-garcia-full-stack-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="german-garcia-full-stack-developer" height="30" width="40" /></a>
-<a href="mailto:21german.garcia@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="21german.garcia@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/german-garcia-full-stack-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="german-garcia-full-stack-developer" height="40" width="50" /></a>
+<a href="mailto:21german.garcia@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="21german.garcia@gmail.com" height="40" width="50" /></a>
 </p>
 
 > 💼 [Portfolio](https://german-garcia-portfolio.vercel.app)
