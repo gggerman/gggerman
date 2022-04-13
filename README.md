@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 <p align="center">
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=gggerman&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=gggerman&count_private=true&show_icons=true&theme=midnight-red&include_all_commits=true" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gggerman&theme=midnight-purple&include_all_commits=true&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gggerman&theme=midnight-red&include_all_commits=true&show_icons=true" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
