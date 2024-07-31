@@ -4,9 +4,6 @@
 <br/>
 
 <p align="center">
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=gggerman&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
-</p>
-<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gggerman&theme=algolia&include_all_commits=true&show_icons=true" />
 </p>
 
